@@ -1,4 +1,4 @@
-Feature: Preenchendo o campo e verificando se o texto está correto.
+Feature: Preenchendo o campo.
 
 Scenario: Clicando no ítem para testar
 Given Preenchendo os ítens
